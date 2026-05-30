@@ -1,5 +1,0 @@
-Feature 2 code - Worked code 1.1
-Feature 2 code - Worked code 2.2
-Feature 2 code - Worked code 3.3
-Feature 2 code - Worked code 4.4
-Feature 2 code - Worked code 5.5
